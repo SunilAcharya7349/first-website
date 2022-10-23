@@ -1,0 +1,20 @@
+body{
+    background-color:blanchedalmond ;
+}
+.lorem{
+    width: 50em;
+}
+.newclass{
+    background-color: tomato;
+}
+.lorem:hover{
+    background-color: blueviolet;
+}
+.lorem >pre
+{
+    cursor: pointer;
+    font-size: 2em;
+}
+.lorem >pre:hover{
+    color: darkblue;
+}
